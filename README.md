@@ -13,3 +13,5 @@ This project breathes new life into custom chessboards by acting as a central hu
 * **Web TV Visualizer:** Live interactive web dashboard for spectators on port `8080` (board representation, evaluation bar, move quality commentary).
 * **ESP32 CYD Touchscreen Support:** Socket-based communication (`port 5000`) for menu navigation, mode selection (PvP, vs Bot, Auto-Play), and move sync.
 * **Arduino/Hardware LED Support:** Communicates via Serial (`/dev/ttyAMA0`) to light up squares on physical boards.
+
+https://www.diymachines.co.uk/smart-chess-board-with-remote-and-local-play
